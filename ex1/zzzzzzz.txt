@@ -1,0 +1,11 @@
+qemu-system-x86_64 -nographic -hda linux-tinycore-linux-6.4-2.img
+
+
+
+scp ahmad_dall7@pond.cs.huji.ac.il:/cs/usr/ahmad_dall7/Desktop/my_whatido/osm.cpp ./
+
+
+	g++ -std=c++11 -S -fverbose-asm -g osm.cpp -o osm.s
+
+
+g++ -g osm.cpp -o osm.s
