@@ -1,0 +1,15 @@
+ahmad_dall7,areen0507
+Ahmad Dallashe (324059856), Areen Mansour (212900211)
+EX: 4
+
+
+FILES:
+VirtualMemory.cpp
+
+REMARKS:
+-
+
+Assignment:
+Overall, this code appears to be a simplified implementation of a virtual memory management system.
+ It handles translation between virtual and physical addresses, manages page tables,
+  and performs eviction and swapping of frames between physical and virtual memory.
