@@ -1,0 +1,4 @@
+/usr/local/APP/jetbrains/clion/2022.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/local/APP/jetbrains/clion/2022.1.3/bin/ninja/linux/ninja -G Ninja -S /cs/usr/ahmad_dall7/Desktop/OS/ex3 -B /cs/usr/ahmad_dall7/Desktop/OS/ex3/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cs/usr/ahmad_dall7/Desktop/OS/ex3/cmake-build-debug
