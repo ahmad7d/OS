@@ -1,0 +1,3 @@
+C:/Users/ahdal_9lda2pd/Desktop/OS/EX2/resources/cmake-build-debug/CMakeFiles/resources.dir
+C:/Users/ahdal_9lda2pd/Desktop/OS/EX2/resources/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahdal_9lda2pd/Desktop/OS/EX2/resources/cmake-build-debug/CMakeFiles/rebuild_cache.dir
